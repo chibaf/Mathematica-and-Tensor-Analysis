@@ -11,3 +11,6 @@ https://arxiv.org/abs/2606.17064
 
 xAct: Efficient tensor computer algebra for the Wolfram Language  
 https://xact.es  
+
+TensoriaCalc: A User-Friendly Tensor Calculus Package for the Wolfram Language  
+https://arxiv.org/abs/2606.17064  
